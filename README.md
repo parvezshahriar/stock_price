@@ -13,9 +13,6 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Results & Performance](#-results--performance)
-- [Dependencies](#-dependencies)
-- [Contact](#-contact)
-
 ---
 
 ## Features
