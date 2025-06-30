@@ -14,6 +14,17 @@
 - [Usage](#-usage)
 - [Results & Performance](#-results--performance)
 ---
+## Homepage
+![homepage](Picture1.png)
+
+## Project UI
+![Project UI](Picture2.png)
+
+## Project UI
+![Project UI](Picture3.png)
+
+## Output
+![Project UI](Picture4.png)
 
 ## Features
 
